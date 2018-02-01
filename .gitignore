@@ -112,3 +112,9 @@ venv.bak/
 
 # for mac
 .DS_store
+
+# config
+config.json
+
+# png
+1.png
